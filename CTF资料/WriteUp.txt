@@ -1,3 +1,11 @@
+3CTF网络安全职业技能大赛
+3CTF初赛题目详解（上）
+https://www.freebuf.com/fevents/218350.html
+3CTF初赛题目详解（中）
+https://www.freebuf.com/fevents/218515.html
+3CTF初赛题目详解（下）
+https://www.freebuf.com/fevents/218520.html
+
 网络与信息安全领域专赛-WriteUp： 
 https://mp.weixin.qq.com/s/1-F5smfdwLUSdit5gP2mYA
 
@@ -10,3 +18,12 @@ https://mp.weixin.qq.com/s/rCqposktwlWdYjVfY4K1lA
 
 2019年四川省大学生信息安全技术大赛AWD简单分析
 https://xz.aliyun.com/t/5793
+
+训练平台搭建方法
+https://github.com/CTFd/CTFd
+
+比赛平台搭建
+https://github.com/facebook/fbctf
+
+more
+https://github.com/topics/ctf
